@@ -1,0 +1,1 @@
+add_library(sase_integration SHARED sase_integration.cpp)

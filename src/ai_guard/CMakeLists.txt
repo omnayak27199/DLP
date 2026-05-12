@@ -1,0 +1,1 @@
+add_library(ai_guard SHARED ai_guard.cpp)

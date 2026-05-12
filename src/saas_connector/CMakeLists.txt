@@ -1,0 +1,1 @@
+add_library(saas_connector SHARED saas_connector.cpp)

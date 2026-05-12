@@ -1,0 +1,1 @@
+add_library(secret_detection SHARED secret_detection.cpp)
