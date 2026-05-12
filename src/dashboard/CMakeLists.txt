@@ -1,0 +1,1 @@
+add_library(dashboard SHARED dashboard.cpp)

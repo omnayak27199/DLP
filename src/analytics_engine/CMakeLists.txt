@@ -1,0 +1,1 @@
+add_library(analytics_engine SHARED analytics_engine.cpp)

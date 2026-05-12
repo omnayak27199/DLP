@@ -1,0 +1,1 @@
+add_library(risk_scoring SHARED risk_scoring.cpp)

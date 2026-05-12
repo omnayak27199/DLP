@@ -1,0 +1,1 @@
+add_library(endpoint_agent SHARED endpoint_agent.cpp)
